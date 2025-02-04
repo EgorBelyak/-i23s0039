@@ -3,7 +3,7 @@ import './Switch.module.css';
 
 
 
-
+// Должно быть не так
 class TrafficLightButton extends React.Component {
     constructor(props) {
         super(props);
